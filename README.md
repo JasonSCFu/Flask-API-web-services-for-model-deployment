@@ -14,7 +14,7 @@ Suppose you would like to create websites based on neural networks. In that case
 Neural network deployment is a complex process. When large numbers of clients must access your model, scalability becomes essential. The cloud usually handles this. The designers of Flask did not design for high-volume systems. When deployed to production, you will wrap models in [Gunicorn](https://gunicorn.org/) or TensorFlow Serving. Everything presented in this part ith Flask is directly compatible with the higher volume Gunicorn system. When early in the development process, it is common to use Flask directly.
 
 
-In the flask.ipynb, I will show how to 
+In the [flask.ipynb](https://github.com/JasonSCFu/Flask-API-web-services-for-model-deployment/blob/main/flask.ipynb), I will show how to 
 * 1: create a simple "Hello world" Flask server.
 * 2: create a Flask wrapper for neural network prediction.
 * 3: create a Flask web service to classify images using MobileNet.
