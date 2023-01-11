@@ -15,6 +15,6 @@ Neural network deployment is a complex process. When large numbers of clients mu
 
 
 In the [flask.ipynb](https://github.com/JasonSCFu/Flask-API-web-services-for-model-deployment/blob/main/flask.ipynb), I will show how to 
-* 1: create a simple "Hello world" Flask server.
-* 2: create a Flask wrapper for neural network prediction.
-* 3: create a Flask web service to classify images using MobileNet.
+* 1: Create a simple "Hello world" Flask server.
+* 2: Create a Flask wrapper for neural network prediction.
+* 3: Create a Flask web service to classify images using MobileNet.
